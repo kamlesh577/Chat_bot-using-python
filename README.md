@@ -1,6 +1,6 @@
 # Chat-bot-using-python
 
-This repository tells how to create a Chatbot with Python and Machine Learning.
+This repository tells how to create a Chatbot with Python and Machine Learning
 
 To create dataset to create a chatbot with Python, we need to understand what intents we are going to train. An “intention” is the user’s intention to interact with a chatbot or the intention behind every message the chatbot receives from a particular user.
 
